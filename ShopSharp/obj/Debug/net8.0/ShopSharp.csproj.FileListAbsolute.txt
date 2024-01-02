@@ -1,0 +1,108 @@
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\bin\Debug\net8.0\ShopSharp.deps.json
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\bin\Debug\net8.0\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\bin\Debug\net8.0\ShopSharp.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\obj\Debug\net8.0\ShopSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\obj\Debug\net8.0\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\obj\Debug\net8.0\refint\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\obj\Debug\net8.0\ShopSharp.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\ShopSharp\obj\Debug\net8.0\ref\ShopSharp.dll
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.exe
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.deps.json
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.runtimeconfig.json
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.dll
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.pdb
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.AssemblyReference.cache
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfoInputs.cache
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfo.cs
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.CoreCompileInputs.cache
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.sourcelink.json
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.CopyComplete
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.dll
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\refint\ShopSharp.dll
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.pdb
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.genruntimeconfig.cache
+C:\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ref\ShopSharp.dll
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Model.dll
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Model.pdb
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\BLL.dll
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\DAL.dll
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\BLL.pdb
+C:\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\DAL.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.exe
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.deps.json
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\BLL.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\DAL.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Model.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\BLL.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Model.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\DAL.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.sourcelink.json
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.CopyComplete
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\refint\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ref\ShopSharp.dll
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.exe
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.deps.json
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.runtimeconfig.json
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.dll
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.pdb
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\BLL.dll
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\DAL.dll
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Model.dll
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\BLL.pdb
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Model.pdb
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\DAL.pdb
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.AssemblyReference.cache
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfoInputs.cache
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfo.cs
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.CoreCompileInputs.cache
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.sourcelink.json
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.CopyComplete
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.dll
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\refint\ShopSharp.dll
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.pdb
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.genruntimeconfig.cache
+C:\Users\Nuno Castro\OneDrive - Instituto Politécnico do Cávado e do Ave\Documents\IPCA\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ref\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.exe
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.deps.json
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\ShopSharp.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\BLL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\DAL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Model.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\BLL.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\Model.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\bin\Debug\net8.0\DAL.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.sourcelink.json
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.csproj.CopyComplete
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\refint\ShopSharp.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ShopSharp.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\ShopSharp\obj\Debug\net8.0\ref\ShopSharp.dll

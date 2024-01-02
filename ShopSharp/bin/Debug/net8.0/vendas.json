@@ -1,0 +1,722 @@
+[
+  {
+    "VendaId": 23,
+    "Cliente": {
+      "ClienteID": 6,
+      "Nome": "teste",
+      "Email": "teste@teste.com",
+      "PalavraPasse": "123",
+      "Contacto": "123456789",
+      "Morada": "rua123",
+      "NIF": "123"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "Novo Produto6",
+        "Preco": 100.0,
+        "Stock": 10,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "Marca1"
+        },
+        "GarantiaMeses": 12,
+        "Categoria": {
+          "CategoriaID": 3,
+          "Nome": "Nova Categoria"
+        }
+      }
+    ],
+    "DataVenda": "2023-12-30T21:57:54.0535705+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 24,
+    "Cliente": {
+      "ClienteID": 5,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999333444",
+      "Morada": "Rua das Flores",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "Asus Rog MotherBoard 32KX",
+        "Preco": 225.00,
+        "Stock": 10,
+        "Marca": {
+          "MarcaID": 4,
+          "Nome": "Asus"
+        },
+        "GarantiaMeses": 16,
+        "Categoria": {
+          "CategoriaID": 1,
+          "Nome": "MotherBoard"
+        }
+      }
+    ],
+    "DataVenda": "2023-12-31T11:40:42.96241+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 25,
+    "Cliente": {
+      "ClienteID": 5,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999333444",
+      "Morada": "Rua das Flores",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "Asus Rog MotherBoard 32KX",
+        "Preco": 225.00,
+        "Stock": 9,
+        "Marca": {
+          "MarcaID": 4,
+          "Nome": "Asus"
+        },
+        "GarantiaMeses": 16,
+        "Categoria": {
+          "CategoriaID": 1,
+          "Nome": "MotherBoard"
+        }
+      }
+    ],
+    "DataVenda": "2023-12-31T11:42:17.5929202+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 26,
+    "Cliente": {
+      "ClienteID": 5,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999333444",
+      "Morada": "Rua das Flores",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "Asus Rog MotherBoard 32KX",
+        "Preco": 225.00,
+        "Stock": 8,
+        "Marca": {
+          "MarcaID": 4,
+          "Nome": "Asus"
+        },
+        "GarantiaMeses": 16,
+        "Categoria": {
+          "CategoriaID": 1,
+          "Nome": "MotherBoard"
+        }
+      }
+    ],
+    "DataVenda": "2023-12-31T11:55:50.9038486+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 27,
+    "Cliente": {
+      "ClienteID": 5,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999333444",
+      "Morada": "Rua das Flores",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "Asus Rog MotherBoard 32KX",
+        "Preco": 225.00,
+        "Stock": 7,
+        "Marca": {
+          "MarcaID": 4,
+          "Nome": "Asus"
+        },
+        "GarantiaMeses": 16,
+        "Categoria": {
+          "CategoriaID": 1,
+          "Nome": "MotherBoard"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T11:14:51.9516814+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 28,
+    "Cliente": {
+      "ClienteID": 5,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999333444",
+      "Morada": "Rua das Flores",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "Asus Rog MotherBoard 32KX",
+        "Preco": 225.00,
+        "Stock": 6,
+        "Marca": {
+          "MarcaID": 4,
+          "Nome": "Asus"
+        },
+        "GarantiaMeses": 16,
+        "Categoria": {
+          "CategoriaID": 1,
+          "Nome": "MotherBoard"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T11:16:08.8234198+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 29,
+    "Cliente": {
+      "ClienteID": 5,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999333444",
+      "Morada": "Rua das Flores",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "Asus Rog MotherBoard 32KX",
+        "Preco": 225.00,
+        "Stock": 5,
+        "Marca": {
+          "MarcaID": 4,
+          "Nome": "Asus"
+        },
+        "GarantiaMeses": 16,
+        "Categoria": {
+          "CategoriaID": 1,
+          "Nome": "MotherBoard"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T11:41:17.1675934+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 30,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "AOC Gaming C27G2ZE VA 27'' FHD 16:9 240Hz",
+        "Preco": 214.90,
+        "Stock": 13,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "AOC"
+        },
+        "GarantiaMeses": 24,
+        "Categoria": {
+          "CategoriaID": 20,
+          "Nome": "Monitor"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T11:49:53.3666369+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 31,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "AOC Gaming C27G2ZE VA 27'' FHD 16:9 240Hz",
+        "Preco": 214.90,
+        "Stock": 12,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "AOC"
+        },
+        "GarantiaMeses": 24,
+        "Categoria": {
+          "CategoriaID": 20,
+          "Nome": "Monitor"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T16:43:05.8126746+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 32,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 2,
+        "Nome": "Intel Core i9-139000K 5.6GHz",
+        "Preco": 669.90,
+        "Stock": 25,
+        "Marca": {
+          "MarcaID": 2,
+          "Nome": "Intel"
+        },
+        "GarantiaMeses": 36,
+        "Categoria": {
+          "CategoriaID": 4,
+          "Nome": "Processadores"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T16:47:29.7764235+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 33,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "AOC Gaming C27G2ZE VA 27'' FHD 16:9 240Hz",
+        "Preco": 214.90,
+        "Stock": 11,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "AOC"
+        },
+        "GarantiaMeses": 24,
+        "Categoria": {
+          "CategoriaID": 20,
+          "Nome": "Monitor"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T16:50:37.6239355+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 34,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 2,
+        "Nome": "Intel Core i9-139000K 5.6GHz",
+        "Preco": 669.90,
+        "Stock": 24,
+        "Marca": {
+          "MarcaID": 2,
+          "Nome": "Intel"
+        },
+        "GarantiaMeses": 36,
+        "Categoria": {
+          "CategoriaID": 4,
+          "Nome": "Processadores"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T16:50:48.4373143+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 35,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "AOC Gaming C27G2ZE VA 27'' FHD 16:9 240Hz",
+        "Preco": 214.90,
+        "Stock": 10,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "AOC"
+        },
+        "GarantiaMeses": 24,
+        "Categoria": {
+          "CategoriaID": 20,
+          "Nome": "Monitor"
+        }
+      },
+      {
+        "ProdutoId": 2,
+        "Nome": "Intel Core i9-139000K 5.6GHz",
+        "Preco": 669.90,
+        "Stock": 23,
+        "Marca": {
+          "MarcaID": 2,
+          "Nome": "Intel"
+        },
+        "GarantiaMeses": 36,
+        "Categoria": {
+          "CategoriaID": 4,
+          "Nome": "Processadores"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T16:51:00.9873419+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 36,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 2,
+        "Nome": "Intel Core i9-139000K 5.6GHz",
+        "Preco": 669.90,
+        "Stock": 22,
+        "Marca": {
+          "MarcaID": 2,
+          "Nome": "Intel"
+        },
+        "GarantiaMeses": 36,
+        "Categoria": {
+          "CategoriaID": 4,
+          "Nome": "Processadores"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T16:52:09.5543591+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 37,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "AOC Gaming C27G2ZE VA 27'' FHD 16:9 240Hz",
+        "Preco": 214.90,
+        "Stock": 9,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "AOC"
+        },
+        "GarantiaMeses": 24,
+        "Categoria": {
+          "CategoriaID": 20,
+          "Nome": "Monitor"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T16:52:24.2601228+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 38,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "AOC Gaming C27G2ZE VA 27'' FHD 16:9 240Hz",
+        "Preco": 214.90,
+        "Stock": 8,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "AOC"
+        },
+        "GarantiaMeses": 24,
+        "Categoria": {
+          "CategoriaID": 20,
+          "Nome": "Monitor"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T16:52:32.7801193+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 39,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 2,
+        "Nome": "Intel Core i9-139000K 5.6GHz",
+        "Preco": 669.90,
+        "Stock": 21,
+        "Marca": {
+          "MarcaID": 2,
+          "Nome": "Intel"
+        },
+        "GarantiaMeses": 36,
+        "Categoria": {
+          "CategoriaID": 4,
+          "Nome": "Processadores"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T17:04:23.5218337+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 40,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "AOC Gaming C27G2ZE VA 27'' FHD 16:9 240Hz",
+        "Preco": 214.90,
+        "Stock": 7,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "AOC"
+        },
+        "GarantiaMeses": 24,
+        "Categoria": {
+          "CategoriaID": 20,
+          "Nome": "Monitor"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T17:04:35.2479743+00:00",
+    "CampanhaAplicada": null,
+    "Total": 0.0
+  },
+  {
+    "VendaId": 41,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 2,
+        "Nome": "Intel Core i9-139000K 5.6GHz",
+        "Preco": 669.90,
+        "Stock": 20,
+        "Marca": {
+          "MarcaID": 2,
+          "Nome": "Intel"
+        },
+        "GarantiaMeses": 36,
+        "Categoria": {
+          "CategoriaID": 4,
+          "Nome": "Processadores"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T17:18:32.0564352+00:00",
+    "CampanhaAplicada": null,
+    "Total": 669.90
+  },
+  {
+    "VendaId": 42,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "AOC Gaming C27G2ZE VA 27'' FHD 16:9 240Hz",
+        "Preco": 214.90,
+        "Stock": 6,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "AOC"
+        },
+        "GarantiaMeses": 24,
+        "Categoria": {
+          "CategoriaID": 20,
+          "Nome": "Monitor"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T17:18:39.7030765+00:00",
+    "CampanhaAplicada": null,
+    "Total": 214.90
+  },
+  {
+    "VendaId": 43,
+    "Cliente": {
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 1,
+        "Nome": "AOC Gaming C27G2ZE VA 27'' FHD 16:9 240Hz",
+        "Preco": 214.90,
+        "Stock": 5,
+        "Marca": {
+          "MarcaID": 1,
+          "Nome": "AOC"
+        },
+        "GarantiaMeses": 24,
+        "Categoria": {
+          "CategoriaID": 20,
+          "Nome": "Monitor"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T17:49:09.1823144+00:00",
+    "CampanhaAplicada": null,
+    "Total": 214.90
+  },
+  {
+    "VendaId": 22,
+    "Cliente": {
+      "CartaoCredito": "4444-5555-6666-7777",
+      "ClienteID": 1,
+      "Nome": "André Freitas",
+      "Email": "andrefreitas@gmail.com",
+      "PalavraPasse": "andre123",
+      "Contacto": "999888777",
+      "Morada": "Rua da Subida",
+      "NIF": "222333444"
+    },
+    "Produtos": [
+      {
+        "ProdutoId": 2,
+        "Nome": "Intel Core i9-139000K 5.6GHz",
+        "Preco": 669.90,
+        "Stock": 19,
+        "Marca": {
+          "MarcaID": 2,
+          "Nome": "Intel"
+        },
+        "GarantiaMeses": 36,
+        "Categoria": {
+          "CategoriaID": 4,
+          "Nome": "Processadores"
+        }
+      }
+    ],
+    "DataVenda": "2024-01-02T17:49:17.0805304+00:00",
+    "CampanhaAplicada": null,
+    "Total": 669.90
+  }
+]
