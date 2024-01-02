@@ -1,0 +1,65 @@
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\ShopSharp_V2\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\ShopSharp_V2\BLL\bin\Debug\net8.0\BLL.dll
+C:\ShopSharp_V2\BLL\bin\Debug\net8.0\BLL.pdb
+C:\ShopSharp_V2\BLL\bin\Debug\net8.0\DAL.dll
+C:\ShopSharp_V2\BLL\bin\Debug\net8.0\Model.dll
+C:\ShopSharp_V2\BLL\bin\Debug\net8.0\DAL.pdb
+C:\ShopSharp_V2\BLL\bin\Debug\net8.0\Model.pdb
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.dll
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.pdb
+C:\ShopSharp_V2\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\bin\Debug\net8.0\Model.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\bin\Debug\net8.0\Model.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\andre\OneDrive\Desktop\ShopSharp_V2\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\bin\Debug\net8.0\Model.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\bin\Debug\net8.0\Model.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\andre\OneDrive\Desktop\Universidade\2º Ano\Programação Orientada a Objetos\ShopSharp_V2\BLL\obj\Debug\net8.0\ref\BLL.dll

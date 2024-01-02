@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OjXsQ6jvTcUyBfSdqOAc9YZn5rc2X/Ez+BleU3FDFQ0+u/kP/5dcwEjs1DriNOiXMdb5GKo6+r2e6HzEiHo+vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\Universidade\\2º Ano\\Programação Orientada a Objetos\\ShopSharp_V2\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

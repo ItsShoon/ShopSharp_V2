@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dCoe3akBhfCRfmxIGeGiO/RnfaprtCRVvTiIFlQVMK3hetOLGlQmLbCYzzI9GeCKKmnsmLLHnr6WgcVeK14Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\Universidade\\2º Ano\\Programação Orientada a Objetos\\ShopSharp_V2\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
